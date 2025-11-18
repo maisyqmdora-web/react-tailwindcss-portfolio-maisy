@@ -171,7 +171,7 @@ const AppHeader = () => {
               <Button title={t("HireMe")} />
             </span>
           </div>
-          <div>
+          <div className="ml-8 bg-primary-light dark:bg-ternary-dark shadow-sm rounded-xl cursor-pointer">
             {/* 右上角语言切换 */}
             <LanguageToggle />
           </div>

@@ -8,7 +8,22 @@ function LanguageToggle() {
     i18n.changeLanguage(isEnglish ? "zh" : "en");
   };
 
-  return <button onClick={toggleLanguage}>{isEnglish ? "EN" : "中"}</button>;
+  return (
+    <button
+      onClick={toggleLanguage}
+      className="
+        text-lg
+        p-3
+        leading-none
+        text-ternary-dark 
+        hover:text-gray-400 
+        dark:text-ternary-light 
+        dark:hover:text-primary-light 
+      "
+    >
+      {isEnglish ? "EN" : "中"}
+    </button>
+  );
 }
 
 export default LanguageToggle;
