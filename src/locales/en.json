@@ -1,0 +1,17 @@
+{
+  "greeting": "Hello, I'm Maisy",
+  "AboutMe": "About Me",
+  "Projects": "Projects",
+  "Contact": "Contact",
+  "note": "A Full-Stack Developer & Design Enthusiast",
+  "Download CV": "Download CV",
+  "HireMe": "Hire Me",
+  "portfolio": "Projects portfolio",
+  "searchNote": "Search projects by title or filter by category",
+  "searchProjects": "Search projects",
+  "allProjects": "All Projects",
+  "webApplication": "Web Application",
+  "mobileApplication": "Mobile Application",
+  "uiuxDesign": "UI/UX Design",
+  "branding": "Branding"
+}

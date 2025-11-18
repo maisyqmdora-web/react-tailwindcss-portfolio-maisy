@@ -1,6 +1,6 @@
 # React & TailwindCSS Portfolio - With Dark Mode
 
-A simple portfolio starter theme built with React and Tailwind CSS. This is the React version of [vuejs-tailwindcss-portfolio](https://github.com/realstoman/vuejs-tailwindcss-portfolio).
+A simple portfolio starter theme built with React and Tailwind CSS. This is the React version of [vuejs-tailwindcss-portfolio](https://github.com/realMaisy/vuejs-tailwindcss-portfolio).
 
 ![React-TailwindCSS-Portfolio](https://user-images.githubusercontent.com/16396664/146666086-28e88beb-c2f0-431f-adfb-2396d8f64c80.png)
 
@@ -10,38 +10,38 @@ A simple portfolio starter theme built with React and Tailwind CSS. This is the 
 
 ## Other versions of this project
 
--   Next.js Version: [https://github.com/realstoman/nextjs-tailwindcss-portfolio](https://github.com/realstoman/nextjs-tailwindcss-portfolio)
--   Vue.js Version: [https://github.com/realstoman/vuejs-tailwindcss-portfolio](https://github.com/realstoman/vuejs-tailwindcss-portfolio)
--   Nuxt.js Version: [https://github.com/realstoman/nuxtjs-tailwindcss-portfolio](https://github.com/realstoman/nuxtjs-tailwindcss-portfolio)
+- Next.js Version: [https://github.com/realMaisy/nextjs-tailwindcss-portfolio](https://github.com/realMaisy/nextjs-tailwindcss-portfolio)
+- Vue.js Version: [https://github.com/realMaisy/vuejs-tailwindcss-portfolio](https://github.com/realMaisy/vuejs-tailwindcss-portfolio)
+- Nuxt.js Version: [https://github.com/realMaisy/nuxtjs-tailwindcss-portfolio](https://github.com/realMaisy/nuxtjs-tailwindcss-portfolio)
 
 ## Features
 
--   [React v18](https://reactjs.org) with [React Router v6](https://reactrouter.com)
--   [Tailwind CSS v3](https://tailwindcss.com)
--   Context API For State Management
--   Custom Hooks
--   Unit Testing
--   Framer Motion transitions & animations
--   Reusable components
--   Dark mode
--   Projects filter by category
--   Projects filter by search
--   Smooth scroll
--   Counter
--   Dynamic forms
--   Back to top button
--   Download file button
--   Simple and responsive design
+- [React v18](https://reactjs.org) with [React Router v6](https://reactrouter.com)
+- [Tailwind CSS v3](https://tailwindcss.com)
+- Context API For State Management
+- Custom Hooks
+- Unit Testing
+- Framer Motion transitions & animations
+- Reusable components
+- Dark mode
+- Projects filter by category
+- Projects filter by search
+- Smooth scroll
+- Counter
+- Dynamic forms
+- Back to top button
+- Download file button
+- Simple and responsive design
 
-### To Contribute to this project, read the [Contribution Guidlines](https://github.com/realstoman/react-tailwindcss-portfolio/blob/main/CONTRIBUTING.md)
+### To Contribute to this project, read the [Contribution Guidlines](https://github.com/realMaisy/react-tailwindcss-portfolio/blob/main/CONTRIBUTING.md)
 
 ## Setup
 
 1. Make sure you have Node JS installed. If you don't have it:
 
--   [Download it from nodejs.org](https://nodejs.org)
--   [Install it using NVM ](https://github.com/nvm-sh/nvm)
--   If you're on Mac, Homebrew is a good option too:
+- [Download it from nodejs.org](https://nodejs.org)
+- [Install it using NVM ](https://github.com/nvm-sh/nvm)
+- If you're on Mac, Homebrew is a good option too:
 
 ```
 brew install node
@@ -50,7 +50,7 @@ brew install node
 2. Clone the repo:
 
 ```
-git clone https://github.com/realstoman/react-tailwindcss-portfolio.git
+git clone https://github.com/realMaisy/react-tailwindcss-portfolio.git
 ```
 
 3. Open the project folder:
@@ -85,14 +85,14 @@ yarn test
 
 ## Notes
 
--   Always run `yarn install` after pulling new changes
--   I'll be constantly updating this repo as I'll be adding more sections to it, so please always check the projects section of this repo to see what tasks are under todo and in progress
--   Coming Soon [I'll be doing a screencast](https://www.youtube.com/realstoman). Soon I'll be uploading a video to my YouTube channel where I'll be going through the process of creating this portoflio
--   Illustrations from [unDraw](https://undraw.co) and [Freepik](https://freepik.com)
--   Images from [Unsplash](https://unsplash.com)
--   Feel free to use it as your own portfolio
--   Contributions are welcome
+- Always run `yarn install` after pulling new changes
+- I'll be constantly updating this repo as I'll be adding more sections to it, so please always check the projects section of this repo to see what tasks are under todo and in progress
+- Coming Soon [I'll be doing a screencast](https://www.youtube.com/realMaisy). Soon I'll be uploading a video to my YouTube channel where I'll be going through the process of creating this portoflio
+- Illustrations from [unDraw](https://undraw.co) and [Freepik](https://freepik.com)
+- Images from [Unsplash](https://unsplash.com)
+- Feel free to use it as your own portfolio
+- Contributions are welcome
 
 ### License
 
-[MIT](https://github.com/realstoman/react-tailwindcss-portfolio/blob/main/LICENSE)
+[MIT](https://github.com/realMaisy/react-tailwindcss-portfolio/blob/main/LICENSE)

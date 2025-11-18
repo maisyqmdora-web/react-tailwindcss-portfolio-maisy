@@ -1,0 +1,17 @@
+{
+  "greeting": "你好，我是奇妙",
+  "AboutMe": "关于我",
+  "Projects": "项目",
+  "Contact": "联系我",
+  "note": "一名全栈开发工程师 & 设计爱好者",
+  "Download CV": "下载简历",
+  "HireMe": "雇佣我",
+  "portfolio": "项目作品集",
+  "searchNote": "按标题搜索项目或按类别筛选",
+  "searchProjects": "搜索项目",
+  "allProjects": "全部项目",
+  "webApplication": "网页应用",
+  "mobileApplication": "移动应用",
+  "uiuxDesign": "UI/UX 设计",
+  "branding": "品牌设计"
+}
