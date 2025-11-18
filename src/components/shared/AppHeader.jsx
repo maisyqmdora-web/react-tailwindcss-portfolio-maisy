@@ -117,13 +117,13 @@ const AppHeader = () => {
           >
             {t("AboutMe")}
           </Link>
-          <Link
+          {/* <Link
             to="/contact"
             className="block text-left text-lg text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light  sm:mx-4 mb-2 sm:py-2 border-t-2 pt-3 sm:pt-2 sm:border-t-0 border-primary-light dark:border-secondary-dark"
             aria-label="Contact"
           >
             {t("Contact")}
-          </Link>
+          </Link> */}
           <div className="border-t-2 pt-3 sm:pt-0 sm:border-t-0 border-primary-light dark:border-secondary-dark">
             <span
               onClick={showHireMeModal}
@@ -151,13 +151,13 @@ const AppHeader = () => {
           >
             {t("AboutMe")}
           </Link>
-          <Link
+          {/* <Link
             to="/contact"
             className="block text-left text-lg text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light  sm:mx-4 mb-2 sm:py-2"
             aria-label="Contact"
           >
             {t("Contact")}
-          </Link>
+          </Link> */}
         </div>
 
         {/* Header right section buttons */}
@@ -168,7 +168,7 @@ const AppHeader = () => {
               className="text-md font-general-medium bg-indigo-500 hover:bg-indigo-600 text-white shadow-sm rounded-md px-5 py-2.5 duration-300"
               aria-label="Hire Me Button"
             >
-              <Button title={t("HireMe")} />
+              <Button title={t("Contact")} />
             </span>
           </div>
           <div className="ml-8 bg-primary-light dark:bg-ternary-dark shadow-sm rounded-xl cursor-pointer">
