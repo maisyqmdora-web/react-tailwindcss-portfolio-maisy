@@ -13,5 +13,15 @@
   "webApplication": "网页应用",
   "mobileApplication": "移动应用",
   "uiuxDesign": "UI/UX 设计",
-  "branding": "品牌设计"
+  "branding": "品牌设计",
+  "hireMeNote": "联系表单",
+  "projectDescription": "请描述一下您的需求",
+  "Email": "邮箱地址",
+  "Name": "您的姓名",
+  "SendRequest": "提交",
+  "Yearsofexperience": "工作年限",
+  "Stars on GitHub": "GitHub 星标",
+  "Positive feedback": "好评率",
+  "Projects completed": "项目完成度",
+  "More Projects": "更多项目"
 }

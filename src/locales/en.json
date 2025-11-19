@@ -13,5 +13,15 @@
   "webApplication": "Web Application",
   "mobileApplication": "Mobile Application",
   "uiuxDesign": "UI/UX Design",
-  "branding": "Branding"
+  "branding": "Branding",
+  "hireMeNote": "Contact Form",
+  "projectDescription": "Project description",
+  "Email": "Email",
+  "Name": "Name",
+  "SendRequest": "Send Request",
+  "Yearsofexperience": "Years of experience",
+  "Stars on GitHub": "Stars on GitHub",
+  "Positive feedback": "Positive feedback",
+  "Projects completed": "Projects completed",
+  "More Projects": "More Projects"
 }
